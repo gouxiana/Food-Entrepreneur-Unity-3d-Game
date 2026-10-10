@@ -1,6 +1,8 @@
 # 美食创业家
 
-一款以快餐店经营为主题的 Unity 第一人称模拟游戏。玩家从一家快餐店开始经营，通过接待顾客、识别订单、制作餐品、交付食物和维护环境获得收入，并在工作与休息之间推进游戏时间。本项目由我独立完成。
+一款以快餐店经营为主题的 Unity 第一人称模拟游戏。玩家从一家快餐店开始经营，通过接待顾客、识别订单、制作餐品、交付食物和维护环境获得收入，并在工作与休息之间推进游戏时间。
+
+这是北京工业大学数字媒体技术专业课程大作业，项目由庞子烁独立完成。仓库仅提供 Windows 打包版、项目录屏和展示截图，不公开 Unity 源代码。
 
 ## 项目概览
 
@@ -8,6 +10,7 @@
 - **开发引擎**：Unity 2020.3.48f1c1
 - **开发语言**：C#
 - **个人角色**：独立完成 UI 设计、美术设计、特效构思、音效制作、剧情设计、玩法策划、程序开发与测试
+- **项目时间**：2024 年 11 月
 
 ## 核心玩法
 
@@ -27,8 +30,21 @@
 
 ## Demo 演示
 
-- [查看项目录屏](media/food-entrepreneur-demo.mov)
-- [下载 Windows 可执行 Demo](https://github.com/gouxiana/Food-Entrepreneur-unity/releases/tag/v1.0-demo)
+### 玩法演示视频
+
+玩法演示视频会上传到 GitHub Release，展示从开始营业、接收订单、制作餐品、交付顾客到获得金币的完整操作流程。Release 附件名为 `Food-Entrepreneur-gameplay-demo.mp4`（约 74.5 MB）：
+
+- [下载 / 观看游戏玩法演示视频（Release）](https://github.com/gouxiana/Food-Entrepreneur-unity/releases/tag/v1.0-demo)
+
+### 剧情介绍视频
+
+该视频用于介绍项目背景和游戏设定，不等同于实际玩法录屏：
+
+- [查看项目剧情介绍视频](media/food-entrepreneur-story.mov)
+
+### Windows 可执行 Demo
+
+- [下载 Windows 可执行 Demo（Release）](https://github.com/gouxiana/Food-Entrepreneur-unity/releases/tag/v1.0-demo)
 
 运行步骤：
 
@@ -59,7 +75,7 @@
 ```text
 README.md
 media/
-  food-entrepreneur-demo.mov
+  food-entrepreneur-story.mov
 screenshots/
   restaurant-scene.png
   coin-feedback.png
