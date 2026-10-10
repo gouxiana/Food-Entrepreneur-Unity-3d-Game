@@ -38,7 +38,7 @@
 
 该视频用于介绍项目背景和游戏设定，不等同于实际玩法录屏：
 
-- [查看项目剧情介绍视频](media/food-entrepreneur-story.mov)
+- [查看项目剧情介绍视频](media/food-entrepreneur-demo.mov)
 
 ### Windows 可执行 Demo
 
